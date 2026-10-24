@@ -15,7 +15,7 @@
 
 ### 🏆 Highlights
 
-🏅 [Taipei City Dashboard Hackathon 2025](https://codefest.taipei/2025-spring/past): **Merit Award** ([Taipei City Dashboard](https://citydashboard.taipei/dashboard?index=metro&city=taipei)), with [@RoyLee1224](https://github.com/RoyLee1224)
+🏅 [Taipei City Dashboard Hackathon 2025](https://codefest.taipei/2025-spring/past): **Merit Award** ([Taipei City Dashboard](https://citydashboard.taipei/dashboard?index=metro&city=taipei))
 
 🤖 [Digitimes Generative AI Hackathon](https://github.com/Kooooojun/AI-Hackathon-IntelligentNexus): team **Intelligent Nexus**
 
