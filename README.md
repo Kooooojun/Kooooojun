@@ -22,13 +22,6 @@
 
 ---
 
-### 🔧 What I'm Building
-
-- 🧩 **[skills](https://github.com/Kooooojun/skills)**: open-source [Agent Skills](https://agentskills.io/specification) for Claude Code, Codex, OpenCode & more
-- 🔒 A private quant research stack for the Taiwan market: data pipelines, strategy backtesting, and trade journaling
-
----
-
 ### 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
