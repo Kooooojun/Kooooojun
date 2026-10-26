@@ -9,6 +9,7 @@
 - 🎓 **NCCU CS** graduate
 - 📈 Trading the Taiwan market with **quant signals**: research, backtesting, live trading (semi-automated for now, fully automated next)
 - 🤖 Always tinkering with the latest AI coding workflows: agents, skills, plugins. Sharing what works as [Agent Skills](https://github.com/Kooooojun/skills)
+- 🚀 Open source contributions: [Orca](https://github.com/stablyai/orca) (an app for running fleets of coding agents)
 - ⚡ `if (market.closed) { debug(life); }`
 
 ---
